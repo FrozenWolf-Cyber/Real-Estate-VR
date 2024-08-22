@@ -17,6 +17,7 @@ A brief description of the project.
 ## Demo
 Video: https://drive.google.com/file/d/1ZxKhzX93vt36ZJdta37bxWNY6F8HYR3k/view
 
+![vr](https://github.com/user-attachments/assets/8224a345-f0fb-438b-a1e2-a0e001322c6a)
 
 ![Screenshot from 2023-11-20 09-40-49](https://github.com/FrozenWolf-Cyber/Real-Estate-VR/assets/57902078/b4b603d2-8d59-44f5-9251-f2fa80f906d3)
 ![Screenshot from 2023-11-20 09-39-30](https://github.com/FrozenWolf-Cyber/Real-Estate-VR/assets/57902078/b8d03cb8-edeb-497a-ac59-86f968d9ce32)
